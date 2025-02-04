@@ -54,7 +54,7 @@
 ### Exporting Data
 You can export your data at any time to store it offline or for further analysis.
 - Click on "Export Data" and choose the desired format (e.g., CSV).
- -Save the file to a secure location.
+- Save the file to a secure location.
   
 ## Contributions
 Contributions and suggestions for improvement are always welcome! If you have ideas or have found any issues, please open an Issue or submit a pull request.
