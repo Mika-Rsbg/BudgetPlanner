@@ -173,5 +173,6 @@ cython_debug/
 
 # custom Folders
 data/
+temp/
 ~$*.xlsx
 .temp
